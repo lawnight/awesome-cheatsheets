@@ -1,8 +1,8 @@
 > 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/skywind3000/awesome-cheatsheets) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/skywind3000/awesome-cheatsheets/blob/master/LICENSE)
-[![Backers on Open Collective](https://opencollective.com/awesome-cheatsheets/backers/badge.svg)](#backers) 
-[![Sponsors on Open Collective](https://opencollective.com/awesome-cheatsheets/sponsors/badge.svg)](#sponsors) 
+[![Backers on Open Collective](https://opencollective.com/awesome-cheatsheets/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/awesome-cheatsheets/sponsors/badge.svg)](#sponsors)
 
 [![](awesome.png)](https://github.com/skywind3000/awesome-cheatsheets)
 ​                                                                                      
@@ -35,6 +35,10 @@
 - [VIM](editors/vim.txt)
 - [Nano](editors/nano.txt)
 
+### :pencil:数据库
+
+- [redis](database/redis.sh)
+
 ## :pray:感谢贡献
 
 本项目的存在，离不开参与贡献的网友们，感谢：
@@ -65,5 +69,3 @@
 <a href="https://opencollective.com/awesome-cheatsheets/sponsor/7/website" target="_blank"><img src="https://opencollective.com/awesome-cheatsheets/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/awesome-cheatsheets/sponsor/8/website" target="_blank"><img src="https://opencollective.com/awesome-cheatsheets/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/awesome-cheatsheets/sponsor/9/website" target="_blank"><img src="https://opencollective.com/awesome-cheatsheets/sponsor/9/avatar.svg"></a>
-
-
